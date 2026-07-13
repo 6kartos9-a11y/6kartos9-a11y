@@ -2,7 +2,7 @@
 
 ![GitHub Profile Banner](banner.svg)
 
-[![Profile views](https://gpvc.arturio.dev/6kartos9-a11y)](https://github.com/6kartos9-a11y)
+[![Profile views](https://komarev.com/ghpvc/?username=6kartos9-a11y&style=flat-square)](https://github.com/6kartos9-a11y)
 
 ### Data Analyst | ML Enthusiast | Python, SQL, Power BI
 
@@ -55,7 +55,7 @@ Detail-oriented Data Analyst with experience in data structures, statistical mod
 
 ## GitHub Stats
 
-[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=6kartos9-a11y&show_icons=true&theme=radical&count_private=true)](https://github.com/6kartos9-a11y)
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=6kartos9-a11y&show_icons=true&theme=radical)](https://github.com/6kartos9-a11y)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6kartos9-a11y&layout=compact&theme=radical)](https://github.com/6kartos9-a11y)
 
