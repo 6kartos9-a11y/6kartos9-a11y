@@ -51,34 +51,7 @@ Detail-oriented Data Analyst with experience in data structures, statistical mod
 - Feature Engineering, Model Evaluation, and Automation
 - Technical communication, project ownership, and async collaboration
 
-## Featured Projects
 
-### Food Delivery Analysis
-[https://github.com/6kartos9-a11y/Food_Delivery_Analysis](https://github.com/6kartos9-a11y/Food_Delivery_Analysis)
-- Conducted exploratory data analysis on delivery datasets to uncover customer behavior, restaurant performance, and revenue patterns.
-- Built SQL pipelines and Python scripts for cleaning, aggregation, and statistical analysis.
-- Delivered dashboards with Matplotlib and Seaborn highlighting peak hours, payment preferences, and delivery delays.
-
-### BankNote Authentication System
-[https://github.com/6kartos9-a11y/note_classification](https://github.com/6kartos9-a11y/note_classification)
-- Built a counterfeit banknote classification model using Scikit-learn.
-- Performed preprocessing, feature analysis, and model validation.
-- Created a prediction pipeline for near real-time authentication.
-
-## Internship
-
-**1M1B Green Skills Academy**
-- Green Skills Intern in partnership with AICTE, supported by Salesforce
-- Completed a sustainability-focused internship program with exposure to technology-driven climate solutions
-- Collaborated on environmentally conscious practices and green skill development initiatives
-
-## Certifications
-
-- Microsoft Data Analyst
-- Coursera: Python, Data Analysis, Statistics, Machine Learning, Databases
-- Coding Ninjas: Java and Data Structures & Algorithms
-
----
 
 ## GitHub Stats
 
